@@ -1,0 +1,45 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.svclog
+*.vspscc
+.vscode/
+.vs/
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.Local.json
+
+# Logs
+logs/
+*.log
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# NPM package lock files
+package-lock.json
+yarn.lock
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Misc
+*.swp
+*~
