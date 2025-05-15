@@ -65,6 +65,8 @@ cv-ai-analyzer/
 
 - Communication: RESTful API with JSON responses
 
+![LangFlow Image](./Images/Langflow.jpeg)
+
 ## ⚠️ Notes
 - Only .pdf files are supported. File validation is performed.
 
